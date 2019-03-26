@@ -1,0 +1,21 @@
+[submodule "InterviewService"]
+	path = InterviewService
+	url = https://github.com/SMS-Staging-Management-System/InterviewService.git
+[submodule "UserInterface"]
+	path = UserInterface
+	url = https://github.com/SMS-Staging-Management-System/UserInterface.git
+[submodule "SurveyService"]
+	path = SurveyService
+	url = https://github.com/SMS-Staging-Management-System/SurveyService.git
+[submodule "UserService"]
+	path = UserService
+	url = https://github.com/SMS-Staging-Management-System/UserService.git
+[submodule "CognitoAuth"]
+	path = CognitoAuth
+	url = https://github.com/SMS-Staging-Management-System/CognitoAuth.git
+[submodule "Gateway-Discovery"]
+	path = Gateway-Discovery
+	url = https://github.com/SMS-Staging-Management-System/Gateway-Discovery.git
+[submodule "CognitoService"]
+	path = CognitoService
+	url = https://github.com/SMS-Staging-Management-System/CognitoService.git
